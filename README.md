@@ -1,4 +1,4 @@
-# Heal.ai # (Mental Well-being Predictor)
+# Heal.ai (Mental Well-being Predictor)
 
 ## Overview
 
